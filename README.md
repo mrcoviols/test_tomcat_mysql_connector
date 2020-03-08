@@ -1,6 +1,6 @@
 # Test Connector
 Test project for the integration of Mysql, Tomcat and Java13.
-Even though it was made with transparency in mind, the program was made in Eclipse. Take this into consideration when using a different IDE
+The program was made in Eclipse and, due to the status of today development options for Java, this means that some files are IDE specific. Take this into consideration when using a different IDE.
 
 # Environment variables
 
